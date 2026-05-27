@@ -51,11 +51,11 @@ Backend: PHP
 Database: MySQL
 Libraries: Composer, PHPUnit
 
-**Contact**
-For questions or support, please contact:
-Email: support@shoestyle.com
-Phone: +1 (555) 123-4567
-Address: NØRREPORT, COPENHAGEN, DENMARK, 1400
+**Built By**
+Kabita Choudhary & Collaborator — BSc Computer Science  
+Niels Brock CBC, Copenhagen, Denmark  
+LinkedIn: https://linkedin.com/in/kabita-chy  
+GitHub: https://github.com/Kabita1999
 
 
    
